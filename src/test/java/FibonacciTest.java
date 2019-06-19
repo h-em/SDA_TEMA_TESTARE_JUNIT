@@ -17,18 +17,15 @@ public class FibonacciTest {
 
     @Test
     public void test3rdElemetFromfibonaciiMethodThenMethodReturns1(){
-        List s = f.computeNonRecursive(10);
-        assertEquals(1,s.get(2));
+        assertEquals(1,f.computeNonRecursive(2));
     }
 
     @Test
     public void test5rdElemetFromfibonaciiMethodThenMethodReturns3(){
-        List s = f.computeNonRecursive(10);
-        assertEquals(3,s.get(4));
+        assertEquals(3,f.computeNonRecursive(4));
     }
     @Test
     public void test8rdElemetFromfibonaciiMethodThenMethodReturns13(){
-        List s = f.computeNonRecursive(10);
-        assertEquals(13,s.get(7));
+        assertEquals(13,f.computeNonRecursive(7));
     }
 }

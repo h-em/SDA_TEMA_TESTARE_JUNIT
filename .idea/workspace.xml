@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62771a95-43e1-411c-adea-08304c59fa8e" name="Default Changelist" comment="" />
+    <list default="true" id="62771a95-43e1-411c-adea-08304c59fa8e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fibonnaci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fibonnaci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FibonacciTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FibonacciTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Fibonnaci.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Fibonnaci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FibonacciTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/FibonacciTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,36 +18,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Fibonnaci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="220">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/FibonacciTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="300">
+              <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/CustomStackTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="51" column="20" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#532#533#0" expanded="true" />
+                <element signature="e#601#602#0" expanded="true" />
+                <element signature="e#642#643#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -56,14 +52,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/CustomStack.java" />
         <option value="$PROJECT_DIR$/src/test/java/CustomStackTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/FibonacciTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Fibonnaci.java" />
+        <option value="$PROJECT_DIR$/src/test/java/FibonacciTest.java" />
       </list>
     </option>
   </component>
@@ -74,11 +73,12 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -140,7 +140,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560942315185" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560956302007" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -158,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Fibonnaci">
+  <component name="RunManager" selected="JUnit.FibonacciTest.test8rdElemetFromfibonaciiMethodThenMethodReturns13">
     <configuration name="Fibonnaci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fibonnaci" />
       <module name="Tema_Testare" />
@@ -175,21 +175,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciTest.test5rdElemetFromfibonaciiMethodThenMethodReturns3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FibonacciTest.test3rdElemetFromfibonaciiMethodThenMethodReturns1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tema_Testare" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="FibonacciTest" />
-      <option name="METHOD_NAME" value="test5rdElemetFromfibonaciiMethodThenMethodReturns3" />
+      <option name="METHOD_NAME" value="test3rdElemetFromfibonaciiMethodThenMethodReturns1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciTest.test5rdElemetFromfibonaciiMethodThenMethodReturns5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FibonacciTest.test5rdElemetFromfibonaciiMethodThenMethodReturns3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tema_Testare" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="FibonacciTest" />
-      <option name="METHOD_NAME" value="test5rdElemetFromfibonaciiMethodThenMethodReturns5" />
+      <option name="METHOD_NAME" value="test5rdElemetFromfibonaciiMethodThenMethodReturns3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -207,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Fibonnaci" />
-        <item itemvalue="JUnit.FibonacciTest" />
         <item itemvalue="JUnit.FibonacciTest.test8rdElemetFromfibonaciiMethodThenMethodReturns13" />
         <item itemvalue="JUnit.FibonacciTest.test5rdElemetFromfibonaciiMethodThenMethodReturns3" />
-        <item itemvalue="JUnit.FibonacciTest.test5rdElemetFromfibonaciiMethodThenMethodReturns5" />
+        <item itemvalue="JUnit.FibonacciTest.test3rdElemetFromfibonaciiMethodThenMethodReturns1" />
+        <item itemvalue="Application.Fibonnaci" />
+        <item itemvalue="JUnit.FibonacciTest" />
       </list>
     </recent_temporary>
   </component>
@@ -229,24 +229,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FibonacciTest_test3rdElemetFromfibonaciiMethodThenMethodReturns1 - 2019.06.19 at 13h 33m 58s.xml">
-      <configuration name="FibonacciTest.test3rdElemetFromfibonaciiMethodThenMethodReturns1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FibonacciTest_test3rdElemetFromfibonaciiMethodThenMethodReturns1 - 2019.06.19 at 13h 34m 43s.xml">
-      <configuration name="FibonacciTest.test3rdElemetFromfibonaciiMethodThenMethodReturns1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FibonacciTest_test3rdElemetFromfibonaciiMethodThenMethodReturns1 - 2019.06.19 at 13h 34m 47s.xml">
-      <configuration name="FibonacciTest.test3rdElemetFromfibonaciiMethodThenMethodReturns1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FibonacciTest_test8rdElemetFromfibonaciiMethodThenMethodReturns13 - 2019.06.19 at 13h 34m 53s.xml">
-      <configuration name="FibonacciTest.test8rdElemetFromfibonaciiMethodThenMethodReturns13" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FibonacciTest_test5rdElemetFromfibonaciiMethodThenMethodReturns5 - 2019.06.19 at 13h 35m 14s.xml">
-      <configuration name="FibonacciTest.test5rdElemetFromfibonaciiMethodThenMethodReturns5" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FibonacciTest_test5rdElemetFromfibonaciiMethodThenMethodReturns5 - 2019.06.19 at 13h 36m 00s.xml">
-      <configuration name="FibonacciTest.test5rdElemetFromfibonaciiMethodThenMethodReturns5" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FibonacciTest_test5rdElemetFromfibonaciiMethodThenMethodReturns3 - 2019.06.19 at 13h 36m 51s.xml">
       <configuration name="FibonacciTest.test5rdElemetFromfibonaciiMethodThenMethodReturns3" configurationId="JUnit" />
     </history-entry>
@@ -258,6 +240,24 @@
     </history-entry>
     <history-entry file="FibonacciTest - 2019.06.19 at 13h 37m 01s.xml">
       <configuration name="FibonacciTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FibonacciTest_test3rdElemetFromfibonaciiMethodThenMethodReturns1 - 2019.06.19 at 17h 51m 38s.xml">
+      <configuration name="FibonacciTest.test3rdElemetFromfibonaciiMethodThenMethodReturns1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FibonacciTest_test3rdElemetFromfibonaciiMethodThenMethodReturns1 - 2019.06.19 at 17h 52m 29s.xml">
+      <configuration name="FibonacciTest.test3rdElemetFromfibonaciiMethodThenMethodReturns1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FibonacciTest_test3rdElemetFromfibonaciiMethodThenMethodReturns1 - 2019.06.19 at 17h 53m 11s.xml">
+      <configuration name="FibonacciTest.test3rdElemetFromfibonaciiMethodThenMethodReturns1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FibonacciTest_test3rdElemetFromfibonaciiMethodThenMethodReturns1 - 2019.06.19 at 17h 53m 22s.xml">
+      <configuration name="FibonacciTest.test3rdElemetFromfibonaciiMethodThenMethodReturns1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FibonacciTest_test3rdElemetFromfibonaciiMethodThenMethodReturns1 - 2019.06.19 at 17h 53m 32s.xml">
+      <configuration name="FibonacciTest.test3rdElemetFromfibonaciiMethodThenMethodReturns1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FibonacciTest_test3rdElemetFromfibonaciiMethodThenMethodReturns1 - 2019.06.19 at 17h 55m 03s.xml">
+      <configuration name="FibonacciTest.test3rdElemetFromfibonaciiMethodThenMethodReturns1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -277,7 +277,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3319616" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.24142662" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -325,9 +325,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Fibonnaci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CustomStackTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="307">
           <caret line="51" column="20" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -339,18 +346,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/FibonacciTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="300">
+          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Fibonnaci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
