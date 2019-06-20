@@ -28,4 +28,18 @@ public class FibonacciTest {
     public void test8rdElemetFromfibonaciiMethodThenMethodReturns13(){
         assertEquals(13,f.computeNonRecursive(7));
     }
+
+    @Test
+    public void test3rdElemetFromfibonaciiMethodThenMethodReturns1R(){
+        assertEquals(1,f.computeRecursive(2));
+    }
+
+    @Test
+    public void test5rdElemetFromfibonaciiMethodThenMethodReturns3R(){
+        assertEquals(3,f.computeRecursive(4));
+    }
+    @Test
+    public void test8rdElemetFromfibonaciiMethodThenMethodReturns13R(){
+        assertEquals(13,f.computeRecursive(7));
+    }
 }

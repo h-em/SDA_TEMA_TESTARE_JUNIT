@@ -31,11 +31,12 @@ public class Fibonnaci {
     public static void main(String[] args) {
         Fibonnaci f = new Fibonnaci();
 
-        int index = 100;
+        int index = 10;
 
         long start = System.currentTimeMillis();
         System.out.println(f.computeRecursive(index));
         long end = System.currentTimeMillis();
+
         System.out.println("f_recursve(" + index + ") = time = " + (end - start) + "ms");
 
         start = System.currentTimeMillis();
